@@ -1,0 +1,98 @@
+[
+	{
+		"id":1,
+		"dibujo":"RAINBOWS",
+		"img":"../assets/img/products/RAINBOWS.jpg",
+		"medida":"32.1 cm x 32.1 cm",
+		"uso":"cilindro, sublimacion o digital",
+		"precio":4000
+	},
+	{
+		"id":2,
+		"dibujo":"ANIMAL VICCHY",
+		"img":"../assets/img/products/ANIMAL_VICCHY.jpg",
+		"medida":"32.1 cm x 32.1 cm",
+		"uso":"cilindro, sublimacion o digital",
+		"precio":3500
+	},
+	{
+		"id":3,
+		"dibujo":"POPPY",
+		"img":"../assets/img/products/POPPY.jpg",
+		"medida":"64.2 cm x 64.2 cm",
+		"uso":"cilindro, sublimacion o digital",
+		"precio":3500
+	},
+	{
+		"id":4,
+		"dibujo":"BUTTERFLY",
+		"img":"../assets/img/products/BUTTERFLY.jpg",
+		"medida":"40 cm x 40 cm",
+		"uso":"schablon, sublimacion o digital",
+		"precio":3000
+	},
+	{
+		"id":5,
+		"dibujo":"FLYING HEARTS",
+		"img":"../assets/img/products/FLYING_HEARTS.jpg",
+		"medida":"40 cm x 40 cm",
+		"uso":"schablon, sublimacion o digital",
+		"precio":2750
+	},
+	{
+		"id":6,
+		"dibujo":"WORDS",
+		"img":"../assets/img/products/WORDS.jpg",
+		"medida":"64.2 cm x 64.2 cm",
+		"uso":"cilindro, sublimacion o digital",
+		"precio":3000
+	},
+	{
+		"id":7,
+		"dibujo":"WATERMELON",
+		"img":"../assets/img/products/WATERMELON.jpg",
+		"medida":"64.2 cm x 64.2 cm",
+		"uso":"cilindro, sublimacion o digital",
+		"precio":3500
+	},
+	{
+		"id":8,
+		"dibujo":"CANDY STAR",
+		"img":"../assets/img/products/CANDY_STAR.jpg",
+		"medida":"32.1 cm x 32.1 cm",
+		"uso":"cilindro, sublimacion o digital",
+		"precio":3250
+	},
+	{
+		"id":9,
+		"dibujo":"GRAFFITI",
+		"img":"../assets/img/products/GRAFFITI.jpg",
+		"medida":"40 cm x 40 cm",
+		"uso":"schablon, sublimacion o digital",
+		"precio":2750
+	},
+    {
+		"id":10,
+		"dibujo":"CAMO CLOUDS",
+		"img":"../assets/img/products/CAMO_CLOUDS.jpg",
+		"medida":"64.2 cm x 64.2 cm",
+		"uso":"cilindro, sublimacion o digital",
+		"precio":3500
+	},
+    {
+		"id":11,
+		"dibujo":"FLORAL CHECKS",
+		"img":"../assets/img/products/FLORAL_CHECKS.jpg",
+		"medida":"64.2 cm x 64.2 cm",
+		"uso":"cilindro, sublimacion o digital",
+		"precio":3750
+	},
+    {
+		"id":12,
+		"dibujo":"GUMMY BEARS",
+		"img":"../assets/img/products/GUMMY_BEARS.jpg",
+		"medida":"24.1 cm x 24.1 cm",
+		"uso":"cilindro, sublimacion o digital",
+		"precio":4250
+	}
+]
